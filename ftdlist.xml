@@ -1,0 +1,29 @@
+
+<IBMX>
+    <FDTRsp>
+        <RSP>
+            <FDTList>
+                <FDTStatus>
+                    <HostStatusCode>10000</HostStatusCode>
+                    <HostStatusDesc>Success</HostStatusDesc>
+                    <PostingDate>05-December-2017 11:58 AM</PostingDate>
+                    <STAN>373a8c21-5144-433b-b0dc-e01409bb5ee6</STAN>
+                    <StatusCode>IIB100</StatusCode>
+                    <StatusDesc>Success</StatusDesc>
+                    <TxnReference>7125461018037696</TxnReference>
+                </FDTStatus>
+                <FDTStatus>
+                    <HostStatusCode>10000</HostStatusCode>
+                    <HostStatusDesc>Success</HostStatusDesc>
+                    <PostingDate>05-December-2018 11:58 AM</PostingDate>
+                    <STAN>373a8c21-5144-433b-b0dc-e01409bb5ee6</STAN>
+                    <StatusCode>IIB100</StatusCode>
+                    <StatusDesc>Success</StatusDesc>
+                    <TxnReference>7125461018037696</TxnReference>
+                </FDTStatus>
+            </FDTList>
+            <STAN>4c610a2f-a235-4be4-9aab-b3254f32f755</STAN>
+            <BatchReferenceNo>1476106692886803</BatchReferenceNo>
+        </RSP>
+    </FDTRsp>
+</IBMX>
